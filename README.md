@@ -46,6 +46,3 @@ A simple **Palindrome Checker** built using Python. This beginner-friendly proje
 - Add a menu-driven interface
 - Check sentences for palindromes
 
-## Author
-
-**Siddhi Deshmukh**
